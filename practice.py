@@ -1,1 +1,3 @@
-print("hello world")
+hello = "hello world "
+for i in hello:
+    print(i)
